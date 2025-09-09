@@ -5,7 +5,8 @@ Arreglo = [
     [7, 8, 9]
 ]
 
-# Recorrer la matriz con dos bucles for
+
 for i in range(3):
     for j in range(3):
         print(Arreglo[i][j], end=" ")
+
